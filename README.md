@@ -13,4 +13,4 @@
 
 ### **Preview**
 
-<!-- ![Weather Dashboard](./assets/images/weather.png) -->
+![Weather Dashboard](./assets/images/weather.png)
