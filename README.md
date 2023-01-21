@@ -9,7 +9,7 @@
 * The city is saved in a history list and when the user clicks the city button they can see the current date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity.
 
 
-💡 See live version here: []()
+💡 See live version here: [https://edogtheninja.github.io/Weather-Dashboard/](https://edogtheninja.github.io/Weather-Dashboard/)
 
 ### **Preview**
 
