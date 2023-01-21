@@ -1,0 +1,31 @@
+#uv-index {
+    border-radius: 15%;
+    color: white;
+    padding: 0.2rem;
+}
+
+#uv-index.favorable {
+    background-color: green;
+}
+
+#uv-index.moderate {
+    background-color: blue;
+}
+
+#uv-index.severe {
+    background-color: red;
+}
+
+.template {
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    h1 {
+        font-size: x-large;
+    }
+
+    h2 {
+        font-size: large;
+    }
+}
